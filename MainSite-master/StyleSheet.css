@@ -1,0 +1,23 @@
+title {
+background-color: #ffaa11;
+color: #ffffff;
+}
+
+header {
+    color: #ffaa11;
+    font-style: sans-serif;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+hr {
+
+}
+a {
+    margin: 30px;
+    color: #33ff44;
+    font-weight: none;
+    
+}
+
